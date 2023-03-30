@@ -440,6 +440,7 @@ dl {
 .accordion_description {
   margin-top: 10px;
   font-size: 16px;
+  line-height: 1.5;
 }
 .accordion_description + .accordion_title {
   margin-top: 40px;
@@ -478,7 +479,7 @@ dl {
     margin-left: 30px;
   }
   .accordion_description {
-    width: 77.7%;
+    width: 75%;
     margin: 0;
   }
 }
